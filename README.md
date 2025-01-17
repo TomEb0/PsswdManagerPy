@@ -24,6 +24,7 @@ PsswdManagerPy is a USB-based password manager written in Python. It allows you 
     launch.bat
     ```
     Or execute the launch.bat.
-2. Follow the on-screen instructions to add, modify, delete, or retrieve passwords.
-3. Enable window detection to automatically display credentials for matching windows.
-
+   Be sure to remember the password provided when you first launch the program. 
+3. Follow the on-screen instructions to add, modify, delete, or retrieve passwords.
+4. Enable window detection to automatically display credentials for matching windows.
+If you delete the database folder, the program will reset as if it is being launched for the first time.
