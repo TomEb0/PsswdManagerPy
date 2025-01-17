@@ -27,7 +27,3 @@ PsswdManagerPy is a USB-based password manager written in Python. It allows you 
 2. Follow the on-screen instructions to add, modify, delete, or retrieve passwords.
 3. Enable window detection to automatically display credentials for matching windows.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
