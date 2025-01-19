@@ -10,11 +10,11 @@ PsswdManagerPy is a USB-based password manager written in Python. It allows you 
 
 ## Installation
 
-1. Clone the repository to your USB drive:
+1. If Github Desktop is installed, clone the repository to your USB drive:
     ```bash
     git clone https://github.com/TomEb0/PsswdManagerPy
     ```
-    Or download it from here: https://github.com/TomEb0/PsswdManagerPy/archive/refs/heads/main.zip
+    Or download it from here: 
    (If you download the zip make sure that the 2 first folder to appear when you open your usb stick are password_manager and python)
 
 ## Usage
