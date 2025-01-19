@@ -43,3 +43,6 @@ If you delete the database folder, the program will reset as if it is being laun
 1. **_cffi_backend**: Part of the `cffi` package.
 2. **cryptography.fernet**: Part of the `cryptography` package.
 3. **pygetwindow**: A module for getting and manipulating windows on your screen.
+
+### Installation
+None of this libraries need to be installed because they are already installed into the folder "python". 
