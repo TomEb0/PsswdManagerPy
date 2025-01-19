@@ -37,10 +37,9 @@ If you delete the database folder, the program will reset as if it is being laun
 3. **json**: Provides an easy way to encode and decode data in JSON format.
 4. **threading**: A module for creating and managing threads in Python.
 5. **time**: Provides various time-related functions.
-6. **tkinter**: A standard GUI (Graphical User Interface) package for Python. (Note: On some systems, you might need to install `tkinter` separately, but it is included with the standard Python distribution.)
+6. **tkinter**: A standard GUI package for Python.
 
 ### Need to be installed separately:
 1. **_cffi_backend**: Part of the `cffi` package.
 2. **cryptography.fernet**: Part of the `cryptography` package.
 3. **pygetwindow**: A module for getting and manipulating windows on your screen.
-4. **tkinter.messagebox**: Part of `tkinter`, so if `tkinter` is installed, this should be available.
