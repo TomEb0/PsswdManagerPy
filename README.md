@@ -40,7 +40,6 @@ If you delete the database folder, the program will reset as if it is being laun
 6. **tkinter**: A standard GUI package for Python.
 
 ### Need to be installed separately:
-1. **_cffi_backend**: Part of the `cffi` package.
 2. **cryptography.fernet**: Part of the `cryptography` package.
 3. **pygetwindow**: A module for getting and manipulating windows on your screen.
 
